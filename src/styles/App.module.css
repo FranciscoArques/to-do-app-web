@@ -1,0 +1,22 @@
+.background {
+  background-color: #232323;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  min-height: 100vh;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+}
+
+.content {
+  font-size: 16px;
+  color: #666;
+}
